@@ -6,6 +6,7 @@ export interface CTA {
   href: string;
   text: string;
   variant: "Normal" | "Reverse";
+  size?: "xs" | "sm" | "md" | "lg";
 }
 
 export interface Props {

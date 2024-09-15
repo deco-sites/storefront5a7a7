@@ -1,0 +1,10 @@
+{
+  "__resolveType": "site/sections/Content/Hero.tsx",
+  "placement": "left",
+  "cta": [
+    {
+      "variant": "Normal",
+      "size": "xs"
+    }
+  ]
+}
