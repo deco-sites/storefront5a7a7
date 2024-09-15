@@ -1,0 +1,19 @@
+{
+  "name": "collections/blog/posts/3b9ec2b43f13",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "extraProps": [],
+    "title": "dan",
+    "excerpt": "dan",
+    "date": "2024-09-11",
+    "slug": "dan",
+    "content": "<p>dan</p>",
+    "seo": {
+      "title": "nda",
+      "description": "dna",
+      "noIndexing": true
+    }
+  }
+}
